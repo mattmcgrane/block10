@@ -1,0 +1,90 @@
+.square{
+    height: 200px;
+    width: 33%;
+    background-color: green;
+    margin-right: 30px;
+    
+}
+.square2{
+    height: 200px;
+    width: 33%;
+    background-color: green;
+    margin-right: 30px;
+   
+}
+.square3{
+    height:200px;
+    width:33%;
+    background-color: green;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.square4 {
+    height:400;
+    width:100%;
+    background-color: green;
+    margin-top: 20;
+}
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+    border-bottom: 400px solid;
+    position: absolute;
+    right: 550;
+    top: 285;
+}
+.triangle2 {
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 300px solid;
+    position: absolute;
+    right: 350;
+    top: 385;
+}
+.circle {
+    height: 100;
+    width: 100;
+    background-color: bisque;
+    border-radius: 50%;
+    position: absolute;
+    left: 800;
+    top: 230;
+}
+.circle2 {
+    height: 100;
+    width: 100;
+    background-color:yellow;
+    border-radius: 50%;
+    position: absolute;
+    left: 500;
+    top: 120;
+}
+.circle3 {
+    height: 70;
+    width: 70;
+    background-color:yellow;
+    border-radius: 50%;
+    position: absolute;
+    left: 350;
+    top: 400;
+}
+.circle4 {
+    height: 70;
+    width: 70;
+    background-color:bisque;
+    border-radius: 50%;
+    position: absolute;
+    left: 1000;
+    top: 150;
+}
+.flex-container2 {
+    display: flex;
+    flex-direction: row;
+}
